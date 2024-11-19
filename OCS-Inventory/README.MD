@@ -13,3 +13,11 @@ yum install httpd httpd-devel mod_perl mod_php mod_ssl php-gd php-mysql php-mbst
 yum install perl-SOAP-Lite perl-Apache-DBI perl-Apache2-SOAP php-xml
 yum install perl-XML-Entities wget perl-Archive-Zip mariadb-server perl-Mojolicious* perl-Switch perl-Plack* perl-Parse-EDID php-soap 
 ```
+
+```bash
+apt-get install libcrypt-ssleay-perl libnet-snmp-perl libproc-pid-file-perl libproc-daemon-perl net-tools 
+apt-get install libsys-syslog-perl pciutils smartmontools read-edid nmap libxml-simple-perl make cpanminus
+cpanm install Net::IP
+cpanm install Net::Netmask
+
+```
