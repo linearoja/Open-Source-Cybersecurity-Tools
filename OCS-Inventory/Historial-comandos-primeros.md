@@ -1,3 +1,4 @@
+```bash
 1  sudo apt update
     2  ip add
     3  raspi-config
@@ -64,3 +65,4 @@
    64  sudo a2enmod perl
    65  php -v
    66  history
+```
