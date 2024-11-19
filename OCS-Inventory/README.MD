@@ -1,1 +1,1 @@
-# OSC Inventory - Inventario de Equipos Automatizados
+# OSC Inventory - (Inventario de Equipos Automatizados)
