@@ -1,6 +1,6 @@
 # OSC Inventory - (Inventario de Equipos Automatizados)
 
-*Instalacion de dependencias*
+**Instalacion de dependencias**
 ```bash
 yum install epel-release -y
 wget http://rpms.famillecollet.com/enterprise/remi-release-7.rpm
